@@ -67,7 +67,6 @@ const Quiz = () => {
       .then(res_data => {
         setData(res_data);
         setQuestion(res_data[index]);
-        console.log(res_data);
       })
       .catch(error => {
         console.error('Error fetching data:', error);
