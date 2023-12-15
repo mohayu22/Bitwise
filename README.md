@@ -1,8 +1,19 @@
-# React + Vite
+# Bitwise - Technical Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Bitwise is a React app built with Vite, designed for programming and technical quizzes. This application is currently under development, with more commits on the way to enhance its features and functionality.
 
-Currently, two official plugins are available:
+## Installation
+To install the dependencies, use the following command:
+```bash
+npm install
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Run
+To run the application locally, use the following command:
+```bash
+npm run dev
+```
+
+## Contributing
+Feel free to contribute to the project by submitting pull requests. Your contributions are highly appreciated.
