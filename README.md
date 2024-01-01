@@ -16,4 +16,4 @@ npm run dev
 ```
 
 ## Contributing
-Feel free to contribute to the project by submitting pull requests. Your contributions are highly appreciated.
+Feel free to contribute to the project by submitting pull requests.
